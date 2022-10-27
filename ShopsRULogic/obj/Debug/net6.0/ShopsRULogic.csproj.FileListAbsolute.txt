@@ -1,0 +1,17 @@
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\bin\Debug\net6.0\ShopsRULogic.deps.json
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\bin\Debug\net6.0\ShopsRULogic.dll
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\bin\Debug\net6.0\ShopsRULogic.pdb
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\bin\Debug\net6.0\ShopsRUsData.dll
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\bin\Debug\net6.0\ShopsRUsModel.dll
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\bin\Debug\net6.0\ShopsRUsData.pdb
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\bin\Debug\net6.0\ShopsRUsModel.pdb
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ShopsRULogic.csproj.AssemblyReference.cache
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ShopsRULogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ShopsRULogic.AssemblyInfoInputs.cache
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ShopsRULogic.AssemblyInfo.cs
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ShopsRULogic.csproj.CoreCompileInputs.cache
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ShopsRULogic.csproj.CopyComplete
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ShopsRULogic.dll
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\refint\ShopsRULogic.dll
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ShopsRULogic.pdb
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRULogic\obj\Debug\net6.0\ref\ShopsRULogic.dll

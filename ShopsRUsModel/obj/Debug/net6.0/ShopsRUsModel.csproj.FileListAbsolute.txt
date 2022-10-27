@@ -1,0 +1,12 @@
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\bin\Debug\net6.0\ShopsRUsModel.deps.json
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\bin\Debug\net6.0\ShopsRUsModel.dll
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\bin\Debug\net6.0\ShopsRUsModel.pdb
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\ShopsRUsModel.csproj.AssemblyReference.cache
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\ShopsRUsModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\ShopsRUsModel.AssemblyInfoInputs.cache
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\ShopsRUsModel.AssemblyInfo.cs
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\ShopsRUsModel.csproj.CoreCompileInputs.cache
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\ShopsRUsModel.dll
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\refint\ShopsRUsModel.dll
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\ShopsRUsModel.pdb
+C:\Users\FINTRAK-BUDGET\Desktop\SHOPRUS_GTB\ShopsRUsInterview\ShopsRUsModel\obj\Debug\net6.0\ref\ShopsRUsModel.dll
